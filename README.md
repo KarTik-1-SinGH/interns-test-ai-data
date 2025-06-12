@@ -57,4 +57,5 @@ python main.py --subject=math
 - The Anthropic API is accessed via the `anthropic` Python package.
 ---
 
-Feel free to reach out if you have any questions!
+Submitted by :
+Kartik Singh (22B0692)
